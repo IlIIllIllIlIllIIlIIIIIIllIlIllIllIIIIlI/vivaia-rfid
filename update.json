@@ -2,13 +2,13 @@
   "minimum":{
     "versionCode":2,
     "versionName":"1.0.1",
-    "downloadUrl":"",
+    "downloadUrl":"https://raw.githubusercontent.com/IlIIllIllIlIllIIlIIIIIIllIlIllIllIIIIlI/vivaia-rfid/refs/heads/main/2.apk",
     "changelog":"1.新版发布"
   },
   "latest":{
     "versionCode":2,
     "versionName":"1.0.1",
-    "downloadUrl":"",
+    "downloadUrl":"https://raw.githubusercontent.com/IlIIllIllIlIllIIlIIIIIIllIlIllIllIIIIlI/vivaia-rfid/refs/heads/main/2.apk",
     "changelog":"1.新版发布"
   }
 }
