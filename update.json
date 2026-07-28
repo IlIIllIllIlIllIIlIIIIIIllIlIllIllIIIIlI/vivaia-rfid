@@ -1,13 +1,13 @@
 {
   "minimum":{
-    "versionCode":10,
-    "versionName":"1.1.0",
+    "versionCode":13,
+    "versionName":"1.1.3",
     "downloadUrl":"https://fir.xcxwo.com/vivaiapos",
     "changelog":"1.Improve the functions of the application."
   },
   "latest":{
-    "versionCode":10,
-    "versionName":"1.1.0",
+    "versionCode":13,
+    "versionName":"1.1.3",
     "downloadUrl":"https://fir.xcxwo.com/vivaiapos",
     "changelog":"1.Improve the functions of the application."
   }
